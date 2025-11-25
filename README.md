@@ -35,4 +35,8 @@ Database: MongoDB Atlas
 
 👤 Author
 
-Abhigyan — Zerodha Clone (Full‑Stack)
+Abhigyan — Zerodha Clone (Full‑Stack).
+
+
+Link Here -> zerodhaclone07.netlify.app
+
