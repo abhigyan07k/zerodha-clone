@@ -24,9 +24,12 @@ function Hero() {
 
         {/* Signup Button */}
         <div className="col-12">
-          <a href="" target="blank">
+          <a
+            href="https://6925ae556e0190c873e0379a--relaxed-jelly-b23fb9.netlify.app/"
+            target="blank"
+          >
             <button className="btn btn-primary fs-5 mt-3 w-50 w-md-50 w-lg-25">
-              View Dashboard
+              Go to Dashboard
             </button>
           </a>
         </div>
